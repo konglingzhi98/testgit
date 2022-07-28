@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello test
 we need work hard
+=======
+konglingzhi
+hezerui
+>>>>>>> dev
